@@ -1,0 +1,6 @@
+@EnergymDBApi_HostAddress = http://localhost:5075
+
+GET {{EnergymDBApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
